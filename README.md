@@ -25,3 +25,9 @@ https://github.com/brainsmoke/esp32leddriver
 <img src="img/closeup.jpg" width="512">
 
 <img src="img/wiringdone.jpg" width="512">
+
+<img src="img/extra_copper.jpg" width="512">
+Add some capacity to the strip which need to handle the most Amps.
+
+<img src="img/driver.jpg" width="512">
+
