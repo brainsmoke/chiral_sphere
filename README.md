@@ -29,13 +29,42 @@ https://github.com/brainsmoke/geometry/blob/main/spherical/2tri1penta.scad#L8-L3
 
 [Laser cut shapes](cut/led.svg) (with some spares, no kerf width compensation done)
 
+# Wiring
+
+All strips are positioned such that data-in is above data-out, with one pentagon chosen
+as top.  The strips are connected as five point-symmetrical led strips with 102 LEDs each
+according to [this OpenSCAD model](doc/wiring.scad).
+
+<img src="doc/wiring.png" width="512">
+
 # LED Driver
 
-https://github.com/brainsmoke/esp32leddriver/tree/master/pcb/edgedriver_slim_v1
+[PCB](https://github.com/brainsmoke/esp32leddriver/tree/master/pcb/edgedriver_slim_v1)
 
 # Software
 
-https://github.com/brainsmoke/esp32leddriver
+* [Driver software repo](https://github.com/brainsmoke/esp32leddriver)
+* [STM32 Firmware: strip5.bin](https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/stm32/m02812/src)
+* [LED positions](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/fs/models/chiral_tiling/leds.json)
+
+[conf/board.json](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/fs/conf/board.json)
+```
+{
+    "uart":
+    {
+        "baudrate": 2000000,
+        "tx": 13,
+        "rx": 35
+    }
+}
+```
+
+[conf/model.json](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/fs/conf/board.json)
+```
+{
+    "model": "/models/chiral_tiling",
+}
+```
 
 # More pictures
 
