@@ -27,7 +27,11 @@ https://github.com/brainsmoke/geometry/blob/main/spherical/2tri1penta.scad#L8-L3
 
 # Cutting
 
-[Laser cut shapes](cut/led.svg) (with some spares, apply appropriate kerf width compensation done using cutting software)
+Based on output from [one of my scripts](https://github.com/brainsmoke/geometry/blob/main/scripts/tube.py), but
+with the outer panels removed so that the tubes become U-profiles and the sides modified so that they trace
+a perfect sphere.
+
+[Laser cut shapes](cut/led.svg) (with some spares; apply appropriate kerf width compensation before cutting)
 
 # Wiring
 
