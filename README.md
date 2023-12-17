@@ -43,6 +43,8 @@ according to [this OpenSCAD model](doc/wiring.scad).
 
 # LED Driver
 
+<img src="img/driver_unpainted.jpg" width="512">
+
 [PCB](https://github.com/brainsmoke/esp32leddriver/tree/master/pcb/edgedriver_slim_v1)
 
 # Software
