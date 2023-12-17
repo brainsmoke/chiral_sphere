@@ -21,11 +21,9 @@ LED lamp based on a chiral spherical tiling consisting of 20 triangles and
 
 # Maths
 
-Formula for the relation between corner arc and edge-length for regular N-gons on
-the unit sphere: https://github.com/brainsmoke/geometry/blob/main/spherical/ngonmath.png
-
-Calculation of the corner arc for this spherical tiling:
-https://github.com/brainsmoke/geometry/blob/main/spherical/2tri1penta.scad#L8-L34
+* [Formula for the relation between corner arc and edge-length for regular N-gons on](the unit sphere: https://github.com/brainsmoke/geometry/blob/main/spherical/ngonmath.png)
+* [Calculation of the corner arc for this spherical tiling](https://github.com/brainsmoke/geometry/blob/main/spherical/2tri1penta.scad#L8-L34)
+* [LED Locations & normals](https://github.com/brainsmoke/geometry/blob/main/scripts/led_locations.py)
 
 # Cutting
 
