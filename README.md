@@ -62,7 +62,7 @@ according to [this OpenSCAD model](doc/wiring.scad).
 [conf/model.json](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/fs/conf/board.json)
 ```
 {
-    "model": "/models/chiral_tiling",
+    "model": "/models/chiral_tiling"
 }
 ```
 
