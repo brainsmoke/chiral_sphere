@@ -26,7 +26,7 @@ https://github.com/brainsmoke/geometry/blob/main/spherical/2tri1penta.scad#L8-L3
 
 # Cutting
 
-[Laser cut shapes](cur/leds.svg) (with some spares, no kerf width compensation done)
+[Laser cut shapes](cut/leds.svg) (with some spares, no kerf width compensation done)
 
 # Software
 
