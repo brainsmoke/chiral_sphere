@@ -53,7 +53,7 @@ according to [this OpenSCAD model](doc/wiring.scad).
 * [STM32 Firmware: strip5.bin](https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/stm32/m02812/src)
 * [LED positions](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/fs/models/chiral_tiling/leds.json)
 
-[conf/board.json](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/fs/conf/board.json)
+[conf/hardware.json](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/fs/conf/hardware.json)
 ```
 {
     "uart":
@@ -61,13 +61,8 @@ according to [this OpenSCAD model](doc/wiring.scad).
         "baudrate": 2000000,
         "tx": 13,
         "rx": 35
-    }
-}
-```
+    },
 
-[conf/model.json](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/fs/conf/board.json)
-```
-{
     "model": "/models/chiral_tiling"
 }
 ```
