@@ -11,7 +11,7 @@ LED lamp based on a chiral spherical tiling consisting of 20 triangles and
 
 * 2x 5m WS2812 LED strips, 60 LEDs/m spacing, 10mm wide, cut into 30 strips of 17
 * +/- 11 meters flexible diffuser, 12mm wide
-* [custom joint PCBs [kicad]](yjoint) [[svg]](pcb/yjoint/penta_joint.svg)
+* [custom joint PCBs [kicad]](pcb/yjoint) [[svg]](pcb/yjoint/penta_joint.svg), [untested flexpcb alternative](pcb/yjoint_v2) [[svg]](pcb/yjoint_v2/penta_joint_v2.svg)
 * [LED driver board](https://github.com/brainsmoke/esp32leddriver/tree/master/pcb/edgedriver_slim_v1)
 * thin wire (for connecting the data lines)
 * 2x ~30cm thick wire (to handle high currents near the power connector)
