@@ -166,14 +166,19 @@ module step_y()
 
 module penta()
 {
+    $penta_count=is_undef($penta_count)?0:$penta_count;
     children();
     step_x(){
+        $penta_count=$penta_count+1;
         children();
         step_x(){
+            $penta_count=$penta_count+1;
             children();
             step_x(){
+                $penta_count=$penta_count+1;
                 children();
                 step_x(){
+                    $penta_count=$penta_count+1;
                     children();
                 }
             }
@@ -247,4 +252,14 @@ extend()
     chopped_arc(r+1,w,1);
     color([0,1,0])translate([r+2,5,0])arrow(10,w/3,3);
     color([0,0,.8])translate([r+2,-8,-w*.6])rotate([90,0,90])linear_extrude(1)text(str($count));
+}
+
+penta()
+{
+    color([0,1,1])translate([r+10,0,0])rotate([180,0,90])linear_extrude(1)text(str("strip ",$penta_count));
+}
+
+rotate([0,0,3*alpha/4])
+{
+    color("red")translate([r+80,-5,0])rotate([0,180,0])text("this side up");
 }
