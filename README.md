@@ -31,7 +31,7 @@ Based on output from [one of my scripts](https://github.com/brainsmoke/geometry/
 with the outer panels removed so that the tubes become U-profiles and the sides modified so that they trace
 a perfect sphere.
 
-[Laser cut shapes](cut/led.svg) (with some spares; apply appropriate kerf width compensation before cutting)
+[Laser cut shapes](cut/v1/led.svg) (with some spares; apply appropriate kerf width compensation before cutting)
 
 # Wiring
 
