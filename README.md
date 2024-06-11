@@ -50,7 +50,7 @@ according to [this OpenSCAD model](doc/wiring.scad).
 # Software
 
 * [Driver software repo](https://github.com/brainsmoke/esp32leddriver)
-* [STM32 Firmware: strip5.bin](https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/stm32/m02812/src)
+* [STM32 Firmware: strip5.bin](https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/stm32/strip5)
 * [LED positions](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/models/chiral_tiling/leds.json)
 * [conf/hardware.json](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/conf/chiral_tiling/hardware.json)
 
