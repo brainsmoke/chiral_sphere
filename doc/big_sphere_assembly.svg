@@ -26,9 +26,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.51487561"
-     inkscape:cx="494.29415"
-     inkscape:cy="715.70685"
+     inkscape:zoom="1.0297512"
+     inkscape:cx="396.69776"
+     inkscape:cy="523.91295"
      inkscape:window-width="1918"
      inkscape:window-height="1182"
      inkscape:window-x="1"
@@ -105,7 +105,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g4687"
        transform="translate(-10.000261,10)">
@@ -603,8 +604,14 @@
     <g
        id="g1547"
        transform="translate(20.126952,-20.292954)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.499999;stroke-linecap:square;stroke-dasharray:2.80001, 2.80001;stroke-dashoffset:3.49999;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 41.557156,52.953824 1.171502,1.211393 -2.10348,2.625975 -1.300449,-1.0039 z"
+         id="path552"
+         sodipodi:nodetypes="ccccc" />
       <g
-         id="g6149">
+         id="g6149"
+         inkscape:label="g6149">
         <path
            id="path458"
            style="fill:#e8dbb0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
