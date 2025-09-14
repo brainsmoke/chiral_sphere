@@ -1,6 +1,7 @@
 
 
 PROJECTS=distr_v2 distr_main distr8
+PCBA=distr_v2
 
 BASENAME=distr
 BOARDHOUSE=jlc

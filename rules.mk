@@ -24,7 +24,9 @@ GERBERS := $(foreach layer, $(subst .,_, $(LAYERS)), $(TMPDIR)/$(BASENAME)-$(lay
 TMPFILES=$(GERBERS) $(DRILLFILES) $(POSFILE_KICAD)
 
 PROJECT_TARGETS=$(PROJECTS:=.project)
-TARGETS=$(PROJECT_TARGETS)
+PCBA_TARGETS=$(PCBA:=.pcba)
+
+TARGETS=$(PROJECT_TARGETS) $(PCBA_TARGETS)
 
 INTERMEDIATE_FILES=$(foreach project, $(PROJECTS), \
             $(patsubst %, $(POSFILE_KICAD), $(project)) \
@@ -46,7 +48,8 @@ BUILD_FILES=$(foreach project, $(PROJECTS), \
 
 all: $(TARGETS)
 
-$(PROJECT_TARGETS): %.project: $(ZIPFILE) $(POSFILE) $(BOMFILE)
+$(PROJECT_TARGETS): %.project: $(ZIPFILE)
+$(PCBA_TARGETS): %.pcba: $(POSFILE) $(BOMFILE)
 
 $(DRC_REPORT): $(PCB)
 	kicad-cli pcb drc $(DRC_OPTS) -o "$@" "$<" || (cat "$@" && false)
