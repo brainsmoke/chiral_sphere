@@ -12,7 +12,7 @@ LED lamp based on a chiral spherical tiling consisting of 20 triangles and
 * 2x 5m WS2812 LED strips, 60 LEDs/m spacing, 10mm wide, cut into 30 strips of 17
 * +/- 11 meters flexible diffuser, 12mm wide
 * [custom joint PCBs [kicad]](pcb/yjoint) [[svg]](pcb/yjoint/penta_joint.svg), [untested flexpcb alternative [kicad]](pcb/yjoint_v2) [[svg]](pcb/yjoint_v2/penta_joint_v2.svg)
-* [LED driver board](https://github.com/brainsmoke/esp32leddriver/tree/master/pcb/edgedriver_slim_v1), [LED driver board v2](https://github.com/brainsmoke/esp32leddriver/tree/master/pcb/edgedriver_slim_v2)
+* [LED driver board](https://github.com/brainsmoke/esp32leddriver/tree/main/pcb/driver_slim_v1), [LED driver board v2](https://github.com/brainsmoke/esp32leddriver/tree/main/pcb/driver_slim_v2)
 * thin wire (for connecting the data lines)
 * 2x ~30cm thick wire (to handle high currents near the power connector)
 * 3mm plywood, 4x 600x400mm
@@ -45,14 +45,14 @@ according to [this OpenSCAD model](doc/wiring.scad).
 
 <img src="img/driver_unpainted.jpg" width="512">
 
-[PCB](https://github.com/brainsmoke/esp32leddriver/tree/master/pcb/edgedriver_slim_v1)
+[PCB](https://github.com/brainsmoke/esp32leddriver/tree/main/pcb/driver_slim_v1)
 
 # Software
 
 * [Driver software repo](https://github.com/brainsmoke/esp32leddriver)
-* [STM32 Firmware: strip5.bin](https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/stm32/strip5)
-* [LED positions](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/models/chiral_tiling/leds.json)
-* [conf/hardware.json](https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/esp32/conf/chiral_tiling/hardware.json)
+* [STM32 Firmware: strip5.bin](https://github.com/brainsmoke/esp32leddriver/tree/main/firmware/stm32/strip5)
+* [LED positions](https://github.com/brainsmoke/esp32leddriver/blob/main/firmware/esp32/models/chiral_tiling/leds.json)
+* [conf/hardware.json](https://github.com/brainsmoke/esp32leddriver/blob/main/firmware/esp32/conf/chiral_tiling/hardware.json)
 
 # More pictures
 
