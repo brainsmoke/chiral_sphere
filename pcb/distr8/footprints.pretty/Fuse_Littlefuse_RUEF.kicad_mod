@@ -1,0 +1,207 @@
+(footprint "Fuse_Littlefuse_RUEF"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "PTC Resettable Fuse, Ihold = 7.0A, Itrip=13.0A, https://www.littelfuse.com/assetdocs/resettable-ptc-ruef-datasheet?assetguid=2139d828-f887-4a2a-9b25-01ddf761ab3a")
+	(tags "ptc resettable fuse polyfuse THT")
+	(property "Reference" "F2"
+		(at 0 -3 0)
+		(layer "F.SilkS")
+		(uuid "95853882-86e4-4eec-9876-98cb34fdd4a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "RUEF700"
+		(at 0 3 0)
+		(layer "F.Fab")
+		(uuid "6745d458-0a31-40a3-b399-a9d4f203d94f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2031f2f2-3355-4c61-b591-d8ab721997f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7996e0c2-f8c8-4115-bea5-cff44c28be50")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C960026"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c775cd8-772c-4c02-814d-fc55b55594f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -8.5 -1.5)
+		(end -8.5 1.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b784423e-3430-4fa4-87d0-c4f7957f8bb5")
+	)
+	(fp_line
+		(start -8.5 -1.5)
+		(end -5.788 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2a6c8a34-070c-4fae-9041-b8973ad7c521")
+	)
+	(fp_line
+		(start -8.5 1.7)
+		(end 4.5 1.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7ab12f4e-c7d7-4d79-8e70-522e4c61d456")
+	)
+	(fp_line
+		(start -4.5 -1.5)
+		(end 8.5 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "14a61f6e-7df6-4099-b7a1-b7f995cbf538")
+	)
+	(fp_line
+		(start 5.788 1.7)
+		(end 8.5 1.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b14ede9d-5a8f-4389-9ba5-89ad7402ebac")
+	)
+	(fp_line
+		(start 8.5 -1.5)
+		(end 8.5 1.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5e62a6b8-3a20-499d-b158-2badd28833e5")
+	)
+	(fp_line
+		(start -9 -2)
+		(end -9 2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4027721d-9ce1-4e11-a55d-87c64e266414")
+	)
+	(fp_line
+		(start -9 2)
+		(end 9 2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6c67a583-6e52-455b-85df-7227debe9513")
+	)
+	(fp_line
+		(start 9 -2)
+		(end -9 -2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0b10f3cc-6f8d-4775-9797-4b31a8257490")
+	)
+	(fp_line
+		(start 9 2)
+		(end 9 -2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "adda5ce9-bfe1-404e-b84a-74b5dc0ed27e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7885cfb7-4da5-4ae3-ba15-ec12a4b859f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -5.1 -0.6)
+		(size 2.01 2.01)
+		(drill 1.01)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "69a24c02-77dc-4110-8072-cdb288d16e0e")
+	)
+	(pad "2" thru_hole circle
+		(at 5.1 0.6)
+		(size 2.01 2.01)
+		(drill 1.01)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "20742146-1505-48c6-8b88-92fa8f0bd299")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-RHT700.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

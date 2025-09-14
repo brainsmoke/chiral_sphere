@@ -140,7 +140,7 @@
 		)
 		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-00006615b28b")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -381,7 +381,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00006615db0e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -926,7 +926,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-000066206e94")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1053,7 +1053,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00006621cdab")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1197,7 +1197,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x09, script generated"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1211,7 +1211,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000066207db1")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(attr through_hole)
 		(fp_text user "${REFERENCE}"
@@ -1367,7 +1367,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x03, script generated"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -1381,7 +1381,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00006620a352")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(attr through_hole)
 		(pad "1" thru_hole rect
@@ -1474,7 +1474,7 @@
 		)
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/00000000-0000-0000-0000-000066252d0f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -1620,7 +1620,7 @@
 		)
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/00000000-0000-0000-0000-000066217da6")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files)
@@ -1899,7 +1899,7 @@
 		)
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/00000000-0000-0000-0000-000066222b50")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -2153,7 +2153,7 @@
 		)
 		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-00006622205c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "distr.kicad_sch")
 		(attr through_hole)
 		(fp_line
