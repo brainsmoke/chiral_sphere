@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="big_sphere_assembly.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,14 +27,14 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="1.4562881"
-     inkscape:cx="299.04797"
-     inkscape:cy="849.0765"
+     inkscape:cx="420.93319"
+     inkscape:cy="383.50928"
      inkscape:window-width="1918"
      inkscape:window-height="1182"
      inkscape:window-x="1"
      inkscape:window-y="17"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g7988" />
   <defs
      id="defs2">
     <marker
@@ -413,7 +413,7 @@
            id="tspan6419"
            style="font-size:7.05556px;fill:#000000;fill-opacity:0.719498;stroke-width:1"
            x="54.048264"
-           y="149.79778">E</tspan></text>
+           y="149.79778">S</tspan></text>
     </g>
     <use
        x="0"
@@ -525,7 +525,7 @@
            id="tspan7984"
            style="font-size:7.05556px;fill:#000000;fill-opacity:0.719498;stroke-width:1"
            x="54.048264"
-           y="149.79778">E</tspan></text>
+           y="149.79778">H</tspan></text>
     </g>
     <path
        style="fill:none;fill-opacity:0.719498;stroke:#848484;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:2.8, 2.8;stroke-dashoffset:3.5;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
