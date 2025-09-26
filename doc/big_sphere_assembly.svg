@@ -26,15 +26,15 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="1.4562881"
-     inkscape:cx="420.93319"
-     inkscape:cy="383.50928"
+     inkscape:zoom="0.95379641"
+     inkscape:cx="497.48562"
+     inkscape:cy="242.71427"
      inkscape:window-width="1918"
      inkscape:window-height="1182"
      inkscape:window-x="1"
      inkscape:window-y="17"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g7988" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <marker
@@ -97,6 +97,27 @@
          style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
          d="M 3,-3 0,0 3,3"
          id="path5057-9"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1-35"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="2.4217062"
+       markerHeight="4"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057-62"
          transform="rotate(180,0.125,0)"
          sodipodi:nodetypes="ccc" />
     </marker>
@@ -202,6 +223,14 @@
          y="0"
          xlink:href="#g1547"
          id="use4735" />
+      <path
+         style="fill:#000000;fill-opacity:0.719498;stroke:#ee0000;stroke-width:0.7;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1);paint-order:stroke fill markers;stop-color:#000000"
+         d="m 66.373267,33.659677 4.320337,2.953698"
+         id="path2" />
+      <path
+         style="fill:#000000;fill-opacity:0.719498;stroke:#ee0000;stroke-width:0.7;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1);paint-order:stroke fill markers;stop-color:#000000"
+         d="M 45.9102,37.363846 41.589863,34.410148"
+         id="path3" />
     </g>
     <g
        id="g4753"
@@ -683,7 +712,7 @@
          style="font-size:5.29167px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="17.078564"
          y="158.47313"
-         id="tspan584">add Ring4</tspan><tspan
+         id="tspan584">add Ring 4</tspan><tspan
          sodipodi:role="line"
          style="font-size:5.29167px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="17.078564"
@@ -774,6 +803,14 @@
          x="17.078564"
          y="277.53571"
          id="tspan938">reverse-order</tspan></text>
+    <path
+       style="display:inline;fill:#000000;fill-opacity:0.719498;stroke:#ee0000;stroke-width:0.7;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1-35);paint-order:stroke fill markers;stop-color:#000000"
+       d="M 132.377,29.806893 134.44664,25"
+       id="path4727-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:0.719498;stroke:#ee0000;stroke-width:0.7;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1-35);paint-order:stroke fill markers;stop-color:#000000"
+       d="m 159.73027,25.529167 -2.06964,4.806893"
+       id="path1" />
   </g>
   <g
      inkscape:groupmode="layer"
