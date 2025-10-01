@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.64018401"
-     inkscape:cx="491.26501"
-     inkscape:cy="409.25734"
+     inkscape:zoom="1.1087873"
+     inkscape:cx="491.97894"
+     inkscape:cy="274.17341"
      inkscape:window-width="1918"
      inkscape:window-height="1182"
      inkscape:window-x="1"
@@ -195,14 +195,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';fill:#000000;fill-opacity:0.719498;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
-       x="99.144402"
+       x="101.26108"
        y="84.720169"
        id="text4705"><tspan
          sodipodi:role="line"
          id="tspan4703"
          style="font-size:7.05556px;fill:#000000;fill-opacity:0.719498;stroke-width:1"
-         x="99.144402"
-         y="84.720169">A-1</tspan></text>
+         x="101.26108"
+         y="84.720169">A1</tspan></text>
     <path
        style="fill:#000000;fill-opacity:0.719498;stroke:#ee0000;stroke-width:0.7;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1);paint-order:stroke fill markers;stop-color:#000000"
        d="M 111.34226,29.806893 113.4119,25"
@@ -362,14 +362,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';fill:#000000;fill-opacity:0.719498;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
-         x="51.409481"
+         x="49.292812"
          y="74.720169"
          id="text4741"><tspan
            sodipodi:role="line"
            id="tspan4739"
            style="font-size:7.05556px;fill:#000000;fill-opacity:0.719498;stroke-width:1"
-           x="51.409481"
-           y="74.720169">A1</tspan></text>
+           x="49.292812"
+           y="74.720169">A-1</tspan></text>
       <path
          style="fill:#000000;fill-opacity:0.719498;stroke:#ee0000;stroke-width:0.7;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1);paint-order:stroke fill markers;stop-color:#000000"
          d="m 63.412163,15 -2.06964,4.806893"
@@ -432,14 +432,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';fill:#000000;fill-opacity:0.719498;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
-         x="49.920761"
+         x="47.804092"
          y="74.797783"
          id="text4761"><tspan
            sodipodi:role="line"
            id="tspan4759"
            style="font-size:7.05556px;fill:#000000;fill-opacity:0.719498;stroke-width:1"
-           x="49.920761"
-           y="74.797783">A2</tspan></text>
+           x="47.804092"
+           y="74.797783">A-2</tspan></text>
       <path
          style="fill:#000000;fill-opacity:0.719498;stroke:#ee0000;stroke-width:0.7;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1);paint-order:stroke fill markers;stop-color:#000000"
          d="m 63.412163,15 -2.06964,4.806893"
